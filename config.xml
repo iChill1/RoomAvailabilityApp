@@ -10,7 +10,7 @@
     <author href="https://github.com/iChill1/RoomAvailabilityApp" email="edbrieljohnfinney@gmail.com">
         Finney
     </author>
-    <preference name="phonegap-version" value="6.5.0" />
+ 
     <icon src="img/144x144.png"   gap:platform="android"    gap:qualifier="ldpi" />
     <icon src="img/48x48.png"   gap:platform="android"    gap:qualifier="mdpi" />
     <icon src="img/72x72.png"   gap:platform="android"    gap:qualifier="hdpi" />
