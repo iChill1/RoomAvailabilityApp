@@ -3,17 +3,16 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.phonegap.lockerapp"
         version   = "1.0.0">
-	<name>LockerApp</name>
+	<name>RoomApp</name>
     <description>
         A sample Hybrid App Demo for mobile programming.
     </description>	
-    <author href="https://github.com/clydeinwebdev/lockerapp" email="clydeinwebdev@gmail.com">
-        clydeinwebdev
+    <author href="https://github.com/iChill1/RoomAvailabilityApp" email="edbrieljohnfinney@gmail.com">
+        Finney
     </author>
-    <preference name="phonegap-version" value="2.3.6" />
-    <icon src="decode.png" />
-    <icon src="android/android-icon-36x36.png"   gap:platform="android"    gap:qualifier="ldpi" />
-    <icon src="android/android-icon-48x48.png"   gap:platform="android"    gap:qualifier="mdpi" />
-    <icon src="android/android-icon-72x72.png"   gap:platform="android"    gap:qualifier="hdpi" />
-    <icon src="android/android-icon-96x96.png"   gap:platform="android"    gap:qualifier="xhdpi"/>    
+    <preference name="phonegap-version" value="6.5.0" />
+    <icon src="img/144x144.png"   gap:platform="android"    gap:qualifier="ldpi" />
+    <icon src="img/48x48.png"   gap:platform="android"    gap:qualifier="mdpi" />
+    <icon src="img/72x72.png"   gap:platform="android"    gap:qualifier="hdpi" />
+    <icon src="img/96x96.png"   gap:platform="android"    gap:qualifier="xhdpi"/>    
 </widget>
